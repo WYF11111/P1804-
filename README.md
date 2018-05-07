@@ -19,7 +19,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 \
 
 
-```
+输入以下插入文件``
 git add .
 git commit -m 'beizhu'
 git push -u origin master
